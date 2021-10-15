@@ -499,7 +499,6 @@ function Elements() {
     fill(155, 152, 145);
     translate(width / 2, 190 * size);
     rotate(-15);
-    text("ArtCode", 0, 0);
     rotate(15);
     translate(-width / 2, -190 * size);
 
